@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mosdraev
 - 👀 I’m interested in building web apps
-- 🌱 I’m currently learning JS frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning PHP & JS frameworks
 
 <!---
 mosdraev/mosdraev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
